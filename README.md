@@ -5,10 +5,9 @@ This is a Deep Learning course (NTNU Laboratory Training Experiment) using PyTor
 ---
 
 ## Experiment Result
-* Datasets is CUB 200 2011
-* Training on ResNet50
+* The experiments were conducted on the CUB-200-2011 dataset with ResNet50 as the backbone.
 * Comparison of different LayerNorm positions: **pre-LN, post-LN, and peri-LN**
-* The peri-LN setting follows *Peri-LN: Revisiting Layer Normalization in the Transformer Architecture* ([Xu et al., 2023](https://arxiv.org/abs/2305.13305))
+* The peri-LN setting follows *Peri-LN: Revisiting Layer Normalization in the Transformer Architecture* ([Kim, J., Lee, B., Park, C., et al., 2025](https://arxiv.org/pdf/2502.02732v1))
 * `model.py` is adapted based on the official PyTorch [ResNet implementation](https://github.com/pytorch/vision/blob/main/torchvision/models/resnet.py)
 
 <p float="left">
