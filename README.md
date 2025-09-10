@@ -11,11 +11,11 @@ This is a Deep Learning course (NTNU Laboratory Training Experiment) using PyTor
 * `model.py` is adapted based on the official PyTorch [ResNet implementation](https://github.com/pytorch/vision/blob/main/torchvision/models/resnet.py)
 
 <p float="left">
-  <img src="result/numeric-result.png" alt="Experiment Result" width="700" />
+  <img src="results/numeric-results.png" alt="Experiment Result" width="700" />
 </p>
 
 <p float="left">
-  <img src="result/train-result.png" alt="Training Result" width="700" />
+  <img src="results/train-results.png" alt="Training Result" width="700" />
 </p>
 
 ```bibtex
