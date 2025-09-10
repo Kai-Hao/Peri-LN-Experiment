@@ -10,11 +10,11 @@ This is a Deep Learning course (NTNU Laboratory Training Experiment) using PyTor
 * The peri-LN setting follows *Peri-LN: Revisiting Layer Normalization in the Transformer Architecture* ([Kim, J., Lee, B., Park, C., et al., 2025](https://arxiv.org/pdf/2502.02732v1))
 * `model.py` is adapted based on the official PyTorch [ResNet implementation](https://github.com/pytorch/vision/blob/main/torchvision/models/resnet.py)
 
-<p float="left">
+<p align="center">
   <img src="results/numeric-results.png" alt="Experiment Result" width="700" />
 </p>
 
-<p float="left">
+<p align="center">
   <img src="results/train-results.png" alt="Training Result" width="700" />
 </p>
 
